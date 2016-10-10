@@ -13,6 +13,7 @@ make -C hello_jpeg clean
 make -C hello_videocube clean
 make -C hello_teapot clean
 make -C hello_fft clean
+make -C lumiere_aux_apps clean
 
 make -C libs/ilclient
 make -C libs/vgfont
@@ -29,4 +30,5 @@ make -C hello_jpeg
 make -C hello_videocube
 make -C hello_teapot
 make -C hello_fft
+make -C lumiere_aux_apps
 
